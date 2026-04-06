@@ -1,2 +1,3 @@
-# Try-use-Kansformer-PINN-to-predict-ship-motion-
+# Kansformer-PINN
 船舶操纵运动预报利用Transformer以及PINN方法，同时考虑KAN网络融入的可能性
+现有代码已经实现完成，具体详细部分可以参考PiKAT方法搭建模式
